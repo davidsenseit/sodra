@@ -33,3 +33,14 @@ Låt Alex höra ett kort samtal mellan två skogsägare med olika preferenser oc
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 03 netto, 04 industririsk och 05 kapitalbindning. Låt två skogsägare jämföra ett omedelbart netto med möjlig men osäker framtida nytta.
+
+## Visuell läravsikt och saklig kontroll
+Riskmatris: marknad, industri, finansiering, kapitalbindning, styrning, skoglig risk. Alternativ A ger hypotetiskt 500 kr netto/enhet nu, B 490 kr + ej garanterad framtida nytta. Markera osäkerheten tydligt.
+
+## Tillgänglig textfallback
+Tvåkolumnstabell med säkra uppgifter, osäkra framtida utfall och villkor. Ingen antagen vinst i B.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

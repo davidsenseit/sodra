@@ -33,3 +33,14 @@ Visa resultatets två kostnadsposter och kontrasten mellan +50 000 och −50 000
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Knyt till 03: ett högt pris eller en hög omsättning räcker inte för att avgöra netto eller resultat. Fråga frivilligt vad som måste dras av innan resultatet kan bestämmas.
+
+## Visuell läravsikt och saklig kontroll
+Förenklat flöde råvara → bearbetning → produktförsäljning. Separat resultatbrygga: intäkter 1 000 000 − råvara 500 000 − övriga kostnader 450 000 = +50 000 kr. Vid övriga kostnader 550 000 blir −50 000 kr.
+
+## Tillgänglig textfallback
+Redovisa två intäkts-/kostnadsfall rad för rad och framhåll att detta inte visar faktiska Södra-resultat.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

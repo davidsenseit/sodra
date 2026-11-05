@@ -33,3 +33,14 @@ Visa hela 70 000 − 18 000 = 52 000 kr och förklara att villkoren måste jämf
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 01: virkeslikviden kommer av leveransen även om framtida vinstdelning uteblir. Ändra inte denna relation när netto jämförs.
+
+## Visuell läravsikt och saklig kontroll
+Enkel brygga 100 m³fub × 700 kr = 70 000 kr brutto; 100 × 180 = 18 000 kr kostnad; netto 52 000 kr. Visa gärna jämförbara staplar för kostnad 180 respektive 220 kr/m³fub.
+
+## Tillgänglig textfallback
+Två rader: kostnad 180 → netto 52 000 kr; kostnad 220 → netto 48 000 kr. Håll volym och pris konstanta.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

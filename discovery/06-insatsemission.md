@@ -33,3 +33,14 @@ Förklara mekanismen, visa 3 % × 40 000 = 1 200 kr och gå vidare till vinstdel
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 05: emitterat insatskapital är inte ett banktillgodohavande. Fråga valfritt om en emission ändrar kontantflödet eller kapitalposten.
+
+## Visuell läravsikt och saklig kontroll
+Två tydliga spår: hypotetiskt underlag 40 000 kr × 3 % → +1 200 kr emitterat kapital; +0 kr kontant utbetalt genom emissionen. Visa det som två rutor, inte en gemensam intäkt.
+
+## Tillgänglig textfallback
+Skriv 1 200 kr på insatskonto respektive 0 kr i kontant utbetalning och redovisa varför.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

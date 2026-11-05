@@ -33,3 +33,14 @@ Avslutning: lyft att medlemmen nu har fått undersöka modellen, dess möjlighet
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 01, 03, 05–09: virkeslikvid, nettokostnader, kontant utdelning, emitterat kapital, risk och tidsvärde. Använd begrepp i ny samlad situation, inte som upprepning av gamla frågor.
+
+## Visuell läravsikt och saklig kontroll
+Separera hypotetiskt kontantflöde (120 000 + 3 000 = 123 000 kr) från ökning i emitterat kapital (+2 000 kr). För flerårigt exempel: använd formeln PV = belopp/(1+r)^år, visa ränta och horisont innan visualisering.
+
+## Tillgänglig textfallback
+Två kategorier i tabell: kontant inflöde 123 000 kr; kapitalökning 2 000 kr. Om utdelning 0 blir kontant inflöde 120 000 kr. Kapitalet räknas inte dubbelt.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.
