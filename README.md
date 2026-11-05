@@ -2,7 +2,7 @@
 
 Ett AI-oberoende utbildningsunderlag för att förstå och självständigt värdera Södra skogsägarnas ekonomiska förening och dess ekonomiska modell.
 
-**Status:** Grundstruktur och pedagogiskt ramverk (fas 1). Ämnesmoduler och verifierade kunskapskontroller återstår. Repositoryt är inte ännu en komplett kurs.
+**Status:** Tio kunskapsmoduler (01–10) och sexton övningar finns som **draft**. Ingen modul är ännu verifierad för undervisningsbruk. Kvalitetsgranskning pågår; repositoryt är ännu inte en färdig kurs.
 
 ## För användare
 En kompatibel AI-assistent med faktisk åtkomst till repositoryt kan använda [AGENTS.md](AGENTS.md) som undervisningsinstruktion, [pedagogy/FRAMEWORK.md](pedagogy/FRAMEWORK.md) som pedagogiskt ramverk och verifierade ämnesmoduler under `knowledge/`. Att enbart klistra in en GitHub-URL ger inte garanterad åtkomst i alla AI-tjänster. Om assistenten inte kan läsa filerna behöver användaren tillhandahålla dem.
@@ -24,3 +24,6 @@ Förslag på startfråga: ”Använd undervisningsinstruktionerna i detta reposi
 Saklighet framför marknadsföring. Fakta skiljs från antaganden och tolkningar. Föränderlig ekonomisk information tidsmärks. `draft` är inte faktagranskat; `verified` används först efter granskning. Beräkningar kontrolleras separat. Material skrivs självständigt med respekt för upphovsrätt.
 
 Bidrag sker via avgränsade issues och pull requests. Merge kräver projektägarens godkännande.
+
+## Kvalitetsläge
+Den tvärgående [granskningsrapporten](quality/cross-module-audit-2026-11-05.md) listar faktarisker, pedagogiska förbättringar och återstående kontroller. Färdigskrivet utkast är inte detsamma som verifierat undervisningsmaterial.
