@@ -1,0 +1,43 @@
+# Spårbarhet: lärandemål och kunskapskontroller
+status: draft
+prepared_at: 2026-11-05
+
+## Syfte
+Denna matris knyter ihop samtliga tio moduler och de 16 befintliga frågorna. Den beskriver vad som ska bedömas, inte att frågorna eller Södra-specifika påståenden är faktaverifierade. Varje mål har ett stabilt ID.
+
+| Modul | Mål-ID | Observerbart lärandemål | Frågor | Bedömning: måste visa |
+|---|---|---|---|---|
+| 01 | KOOP-L01 | Skilja virkeslikvid från vinstdelning | KOOP-Q001 | Två separata ekonomiska händelser; osäker vinstdelning |
+| 02 | STYR-L01 | Beskriva representativ medlemsdemokrati | STYR-Q001 | Lokal medlemsröst kontra fullmäktiges stämmoröst |
+| 02 | STYR-L02 | Skilja rösträtt från ekonomiska rättigheter | STYR-Q002 | Kapitalstorlek ger inte automatiskt fler medlemsröster |
+| 03 | VIR-L01 | Beräkna netto med definierade kostnader | VIR-Q001 | Brutto, kostnad, netto och enheter |
+| 03 | VIR-L02 | Jämföra affärsvillkor | VIR-Q002 | Netto före nominellt pris; villkor och risk |
+| 04 | IND-L01 | Skilja omsättning, kostnad och resultat | IND-Q001 | Korrekt differens; resultat inte lika med utdelningsbara kontanter |
+| 04 | IND-L02 | Resonera om industriell marginalrisk | IND-Q002 | Fallande intäkter med konstanta kostnader ger lägre marginal |
+| 05 | KAP-L01 | Skilja inbetalt och emitterat kapital från likviditet | KAP-Q001 | Korrekt summa; kapital inte fritt banktillgodohavande |
+| 06 | EMI-L01 | Förklara insatsemission och beräkna tilldelning | EMI-Q001, VIN-Q002 | Kapitaltilldelning utan kontant utbetalning |
+| 07 | VIN-L01 | Skilja förslag från stämmobeslut | VIN-Q001 | Rätt beslutsorgan och daterat beslut; sakverifiering blockerar verified |
+| 07 | VIN-L02 | Skilja kontant utdelning från kapitaltilldelning | VIN-Q002 | Likviditet respektive emitterat kapital |
+| 08 | INV-L01 | Skilja resultat från likviditet och utdelningsutrymme | INV-Q001 | Minst två relevanta kassaflödes-/kapitalbegränsningar |
+| 08 | INV-L02 | Värdera investering mot utdelning | INV-Q002 | Redovisade antaganden, risk och alternativ |
+| 09 | RISK-L01 | Identifiera relevanta risker i erbjudanden | RISK-Q001 | Minst två relevanta villkor utöver nominellt netto |
+| 09 | RISK-L02 | Förklara risk och alternativkostnad | VARD-Q002 | Tidshorisont, likviditet och osäkerhet |
+| 10 | VARD-L01 | Skilja kontantflöde från kapitalförändring | VARD-Q001 | Rätt belopp i respektive kategori, utan dubbelräkning |
+| 10 | VARD-L02 | Motivera långsiktigt medlemsvärde i olika scenarier | VARD-Q002 | Motiverat, villkorat ställningstagande |
+
+## Täckningsbrister att åtgärda
+- Modul 01 saknar en särskild uppgift om industrins gemensamma värdeskapande.
+- Modul 05 saknar en självständig uppgift om kapitalbindning och återbetalningsvillkor.
+- Modul 06 saknar en överföringsuppgift där emissionsgrund och beslutade regler måste kontrolleras.
+- Modul 09 saknar direkt uppgift som prövar minst fyra olika riskkategorier.
+- Modul 10 saknar ett fullständigt flerårsfall med diskontering, jämförbara alternativ och känslighetsanalys.
+- VIN-Q001 bygger på daterade faktauppgifter och får inte märkas verified före kontroll mot originalbeslut.
+
+## Användning i undervisning
+Bedöm enligt pedagogy/ASSESSMENT.md (nivå 0–3). Ett korrekt tal räcker inte om målet kräver motivering. Använd inte samma exempel som enda evidens för mastery. En ny självständig överföringsuppgift behövs innan progression. Låt inte elevens vy avslöja facit i förväg.
+
+## Fortsatt arbete
+1. Inför mål-ID:n i varje modul och frågefil utan att ändra frågornas sakliga innehåll.
+2. Fyll täckningsbristerna med nya uppgifter och facit.
+3. Testa återkoppling och progression med olika AI-modeller.
+4. Kontrollera faktauppgifter separat före verified.
