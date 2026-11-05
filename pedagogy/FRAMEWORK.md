@@ -30,3 +30,6 @@ Mät användningsfriktion (antal meddelanden, avbrott, progression), lärande (s
 
 ## Fördjupning och forskning
 Bloom (1968); Wood, Bruner & Ross (1976); Sweller (1988); Roediger & Karpicke (2006); Hattie & Timperley (2007) är orienterande forskningsspår. Separat systematisk litteraturgranskning återstår. Utforskning utan förklaringar är inte ett tillräckligt undervisningsupplägg.
+
+## Discovery Learning v0.2.0 – förtydligande
+Denna kurs innehåller en **kurslokal** version av den pedagogiska designen och behöver inte hämta en separat Agent Skill vid undervisning. Återkomster styrs av [begreppskartan](../quality/concept-map.md) och [minnesstrategin](MEMORY.md). [Visuell lärstrategi](VISUAL-LEARNING.md) avgör när diagram, flödesschema eller simulerat samband är bättre än text. Plattformsprofiler i quality/platform-capabilities.md är daterade dokumenterade möjligheter, inte garantier för aktuell session. Utbildningen ska fungera även i enbart textbaserad AI-miljö.
