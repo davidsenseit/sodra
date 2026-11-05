@@ -8,7 +8,7 @@ Beskriva mekanismen bakom insatsemission, beräkna ett hypotetiskt kapitaltillsk
 ## Förklaring
 Vid insatsemission förs kapital inom föreningens egna kapital över till individuellt emitterat insatskapital. Medlemmen tilldelas därmed kapital på sitt insatskonto, inte en kontant utbetalning. Tilldelningens grund och omfattning följer gällande regler och stämmobeslut.
 
-Södra beslutade vid extrastämma i november 2025 att möjliggöra insatsemission även med virkesleveranser som beräkningsgrund. Enligt Södras information gäller ändringen från 2026 och påverkar inte vinstdelningen för 2025. Att en metod är tillåten betyder inte att den används varje år.
+Södra beslutade vid extrastämma i november 2025 att möjliggöra insatsemission även med virkesleveranser som beräkningsgrund. Enligt Södras information gäller ändringen från 2026 och påverkar inte vinstdelningen för 2025. Södras information inför extrastämman anger att den föreslagna ändringen avsåg stadgarnas § 36.2 och möjligheten att använda värdet och/eller volymen av inmätta leveranser under senaste eller de två senaste räkenskapsåren. Det är en beskrivning av föreslagen regeltext; kontrollera antagen slutlig stadgetext före verified. Att en metod är tillåten betyder inte att den används varje år.
 
 ## Worked example – hypotetiskt
 Om en insatsemission hypotetiskt beslutas till 3 procent av ett berättigat underlag på 40 000 kr tillförs 1 200 kr emitterat insatskapital. Detta är en förändring i kapitalposten, inte 1 200 kr i kontanter. Exemplet är inte ett faktiskt Södrabeslut.
