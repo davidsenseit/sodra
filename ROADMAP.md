@@ -1,28 +1,28 @@
 # Roadmap
 
-## Fas 1 – grund och pedagogisk arkitektur
-- [x] Definiera projektets syfte och en AI-neutral ingång
-- [x] Dokumentera undervisningsprotokoll, progression och bedömning
-- [x] Skapa kataloger för ämnesmaterial, ordlista, övningar och kvalitetssäkring
-- [x] Dokumentera arkitekturbeslut
+## Fas 1 – struktur och pedagogisk arkitektur
+- [x] AI-neutral ingång och sammanhängande 10-modulersstruktur
+- [x] Ursprungligt pedagogiskt ramverk och facit
+- [x] Ny discovery-first arkitektur med icke-blockerande bedömning (föreslagen i PR)
 - [ ] Validera upplägget med användartester och oberoende pedagogisk granskning
 
 ## Fas 2 – kunskapsbank
-- [ ] Kartlägg primärkällor: sodra.com, stadgar, årsredovisningar och stämmobeslut
-- [ ] Skapa moduler om kooperation, medlemsägande, demokrati och virkesaffär
-- [ ] Skapa moduler om förädling, insatskapital, insatsemission, vinstdelning och återinvestering
-- [ ] Skapa moduler om risker, alternativ och långsiktigt medlemsvärde
-- [ ] Faktagranska, tidsmärk och verifiera innehåll; kontrollera räkneexempel separat
+- [x] Utkast för kunskapsmoduler 01–10
+- [ ] Slutför faktagranskning mot Södras stadgar, årsmötes-/stämmobeslut och årsredovisningar
+- [ ] Kontrollera ekonomiska räkneexempel separat och märk godkänt material verified
 
-## Fas 3 – undervisningsupplevelse
-- [ ] Koppla mål, moduler, ordlista, worked examples och kunskapskontroller
-- [ ] Utveckla adaptiva lärvägar och repetition
-- [ ] Testa flödet för nybörjare och erfarna skogsägare
+## Fas 3 – upptäcktsbaserad undervisning
+- [x] Narrativ interaktion, A/B-val, konsekvensanalys och numeriska tankeexperiment för alla tio moduler (draft)
+- [x] Referensprotokoll för AI-tjänster utan klickbara kontroller
+- [x] Planerade överförings-/repetitionspunkter utan skrivtvång
+- [ ] Testa med faktiska skogsägare: genomförande, motivation, förståelse och tillgänglighet
+- [ ] Revidera efter pilotresultat
 
 ## Fas 4 – interoperabilitet och kvalitet
-- [ ] Testa olika AI-leverantörers läsning av instruktioner och innehåll
-- [ ] Testa hantering av otillgängliga filer, draft-innehåll och osäkra siffror
-- [ ] Genomför granskning, dokumentera avvikelser och förbättra
+- [x] Dokumenterade manuella korsmodell- och regressionsfall
+- [ ] Kör och dokumentera tester i minst två skilda AI-tjänster
+- [ ] Granska att alla scenarier följer modulers faktainnehåll, mål och status
+- [ ] Fortsatt granskning av AI:s påståenden om tillgång, uppföljning och beräkningar
 
-## Definition of done per module
-Lärandemål, avgränsning, status, faktainnehåll, relevanta begrepp, övningar, facit och återkoppling stämmer överens. Föränderliga uppgifter är daterade. Ekonomiska beräkningar har separat kontroll. `verified` kräver faktisk granskning; annars `draft`.
+## Definition of done
+Varje modul har mål, sakunderlag, discovery-aktivitet, vardaglig alternativ-interaktion, fallback, feedback, kritiska perspektiv och spårbara kontrollpunkter. Detta är ännu inte liktydigt med verifierat faktainnehåll eller empiriskt validerad pedagogik.
