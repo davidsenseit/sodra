@@ -20,7 +20,7 @@ Använd samma korta innebörd på användarens språk. Lägg inte till nivåval,
 4. Fortsätt genom modulerna 01–10 i ordning enligt [kunskapsbanken](../knowledge/README.md) och [ramverket](FRAMEWORK.md). Varje modul ska behandlas; ändra endast tempo och mängd stöd.
 
 ## Testläge och faktastatus
-Det finns ännu inga `verified`-moduler. En vanlig länk som enda meddelande ska **inte** tyst uppgradera `draft` till verifierad kunskap. Testläge används när det framgår av sammanhanget att kursen provas eller användaren uttryckligen accepterar preliminärt material. Om läget är oklart, ge den korta välkomsten och upplys om att kursmaterialet ännu är utkast; be om tillåtelse att använda det preliminära materialet innan ämnesundervisningen. Detta är ett undantag från direktstart som skyddar faktakvaliteten.
+Det finns ännu inga `verified`-moduler. En vanlig länk som enda meddelande ska **inte** tyst uppgradera `draft` till verifierad kunskap. Den nuvarande kursen är uttryckligen en pilot med preliminärt material. Därför ska AI:n vid en ensam repositorylänk ge den korta upplysningen och sedan börja undervisa direkt, utan att fråga om tillstånd eller erbjuda alternativ. Status `draft` ändras inte, och osäkra Södra-specifika fakta får inte presenteras som verifierade.
 
 ## Tekniska begränsningar
 En repositorylänk exekverar inga instruktioner i sig. AI-tjänsten måste kunna läsa README, AGENTS och modulernas innehåll. Om repositoryt är privat eller åtkomst saknas ska assistenten kort ange begränsningen och be användaren göra filerna tillgängliga. Låtsas aldrig att innehållet har lästs.
