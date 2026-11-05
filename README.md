@@ -1,31 +1,27 @@
 # Södra – öppet pedagogiskt kunskapssystem
 
-Ett AI-oberoende utbildningsunderlag för att förstå och självständigt värdera Södra skogsägarnas ekonomiska förening och dess ekonomiska modell.
+Ett AI-oberoende utbildningsunderlag för att upptäcka, förstå och självständigt värdera Södra skogsägarnas ekonomiska förening och dess ekonomiska modell.
 
-**Status:** Tio kunskapsmoduler (01–10) och 21 övningar finns som **draft**. Ingen modul är ännu verifierad för undervisningsbruk. Kvalitetsgranskning pågår; repositoryt är ännu inte en färdig kurs.
+**Status:** Tio kunskapsmoduler och upptäcktsbaserade aktiviteter för modul 01–10 är **draft**. Inget innehåll är ännu verifierat för undervisningsbruk. Detta är en testversion, inte en färdiggranskad kurs.
 
 ## Starta utbildningen
-Klistra in repositoryts adress i en AI-assistent som kan läsa GitHub-innehållet. När länken är det enda användaren skickar ska assistenten läsa [AGENTS.md](AGENTS.md) och [pedagogy/ONBOARDING.md](pedagogy/ONBOARDING.md), ge en **kort välkomsthälsning** och börja undervisa i modul 01 direkt. Ingen meny, nivåindelning eller inledande fråga om förkunskaper. Alla tio moduler genomförs i ordning.
+Klistra in repositoryts URL i en kompatibel AI-assistent som kan läsa GitHub-filer. Assistenten ska läsa [AGENTS.md](AGENTS.md) och [pedagogy/ONBOARDING.md](pedagogy/ONBOARDING.md), ge en kort välkomsthälsning och börja med modul 01 direkt. Ingen kursmeny eller inledande kunskapsenkät. Alla tio moduler behandlas i ordning.
 
-**Viktigt:** En ensam URL garanterar inte att alla AI-tjänster kan läsa eller följa instruktionerna. Repositoryt måste vara tillgängligt för tjänsten (det är för närvarande privat). Om innehållet inte kan läsas ska assistenten säga det, inte låtsas starta kursen.
+Kursen bygger på **berättelser, utforskande val, konsekvensförklaringar, jämförelser och ekonomiska tankeexperiment** i stället för obligatoriska fritextsvar. Textval som A/B och 'fortsätt' fungerar som minsta gemensamma nämnare även utan klickbara gränssnitt.
 
-**Testversion:** Alla moduler är ännu `draft`. I uttryckligt testläge får de användas som preliminärt undervisningsmaterial med tydlig information om att faktagranskningen inte är klar. De får inte beskrivas som verifierade.
+**Åtkomst:** En ensam URL garanterar inte att AI-tjänsten kan läsa filerna. Om repositoryt är privat eller åtkomsten saknas ska assistenten ange det tydligt. Testmaterial med `draft` ska aldrig presenteras som verifierade fakta.
 
-## För utvecklare
-- [AGENTS.md](AGENTS.md): AI-neutral instruktion och undervisningsprotokoll
-- [ROADMAP.md](ROADMAP.md): faser, prioriteringar och acceptanskriterier
-- [pedagogy/FRAMEWORK.md](pedagogy/FRAMEWORK.md): metodval och progression
-- [pedagogy/ASSESSMENT.md](pedagogy/ASSESSMENT.md): bedömning och återkoppling
-- [knowledge/README.md](knowledge/README.md): kunskapsmoduler och faktastatus
-- [glossary/README.md](glossary/README.md): terminologisk styrning
-- [exercises/README.md](exercises/README.md): övningar och facit
-- [quality/README.md](quality/README.md): kvalitetssäkring och AI-tester
-- [docs/decisions/0001-learning-architecture.md](docs/decisions/0001-learning-architecture.md): arkitekturbeslut
+## Utvecklarstruktur
+- [AGENTS.md](AGENTS.md): modellneutral instruktion
+- [pedagogy/FRAMEWORK.md](pedagogy/FRAMEWORK.md): pedagogik och progression
+- [pedagogy/DISCOVERY-PROTOCOL.md](pedagogy/DISCOVERY-PROTOCOL.md): interaktionsprotokoll och fallback
+- [pedagogy/ASSESSMENT.md](pedagogy/ASSESSMENT.md): icke-blockerande formativ bedömning
+- [pedagogy/ONBOARDING.md](pedagogy/ONBOARDING.md): kort introduktion och direktstart
+- [discovery/README.md](discovery/README.md): scenarier för modul 01–10
+- [knowledge/README.md](knowledge/README.md): ämnesinnehåll och faktastatus
+- [exercises/README.md](exercises/README.md): befintliga övningar som intern diagnosbank
+- [quality/discovery-tests.md](quality/discovery-tests.md): portabilitets- och pedagogiska acceptanstester
+- [docs/decisions/0002-discovery-first-learning.md](docs/decisions/0002-discovery-first-learning.md): arkitekturbeslut
 
 ## Principer
-Saklighet framför marknadsföring. Fakta skiljs från antaganden och tolkningar. Föränderlig ekonomisk information tidsmärks. `draft` är inte faktagranskat; `verified` används först efter granskning. Beräkningar kontrolleras separat. Material skrivs självständigt med respekt för upphovsrätt.
-
-Bidrag sker via avgränsade issues och pull requests. Merge kräver projektägarens godkännande.
-
-## Kvalitetsläge
-Den tvärgående [granskningsrapporten](quality/cross-module-audit-2026-11-05.md) listar faktarisker, pedagogiska förbättringar och återstående kontroller. Färdigskrivet utkast är inte detsamma som verifierat undervisningsmaterial.
+Saklighet framför marknadsföring. Tydlig skillnad mellan fakta och hypotetiska scenarier; ekonomiska uppgifter tidsmärks; beräkningar kontrolleras separat. `draft` förblir ogranskat tills en faktisk granskning motiverar `verified`. Alla ändringar går via pull requests och merge kräver projektägarens godkännande.

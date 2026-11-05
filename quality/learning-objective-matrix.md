@@ -41,3 +41,6 @@ Bedöm enligt pedagogy/ASSESSMENT.md (nivå 0–3). Ett korrekt tal räcker inte
 2. Testa de nya fördjupningsuppgifterna på elever och kontrollera facit.
 3. Testa återkoppling och progression med olika AI-modeller.
 4. Kontrollera faktauppgifter separat före verified.
+
+## Upptäcktsbaserad användning (2026-11-05)
+Filerna i `discovery/` täcker alla tio modulernas mål genom scener, utforskande val, förklaringar, ekonomiska experiment och repetitionspunkter. Refererade frågor och facit bevaras för intern diagnostik. Kolumnen ”måste visa” beskriver evidens för visad förståelse, inte ett krav för fortsatt progression. Ett val kan vara en preferens, inte ett kunskapsprov. Utan elevsvar är kunskapsnivån okänd. Utvärdering i faktiska AI-tjänster och faktagranskning återstår.

@@ -1,33 +1,32 @@
-# Pedagogiskt ramverk
+# Pedagogiskt ramverk – upptäcktsbaserat lärande
 
-**Status: draft – metoddesign, ännu inte empiriskt utvärderad i projektet.**
+status: draft
+updated_at: 2026-11-05
 
-## Målgrupper och mål
-Nybörjare, befintliga medlemmar och skogsägare som jämför alternativ. Efter utbildningen ska eleven kunna beskriva kooperationens mekanik, följa värdeflöden från virkesaffär till förädling och ekonomiskt utfall, skilja olika former av medlemsvärde och resonera om risker och alternativ.
+## Utbildningens huvudidé
+Deltagaren upptäcker successivt hur Södras ekonomiska modell fungerar genom berättelse, val, konsekvenser och förklaringar. AI:n är guide och medresonerande handledare, inte en examinator som stoppar flödet efter varje fråga. Målet är självständig, kritisk förståelse – inte att övertyga om medlemskap.
 
-## Kombinerad metod
-**Mastery learning:** progression först efter visad förståelse; enbart antal rätt räcker inte.
-**Scaffolding:** börja med vardaglig förklaring, introducera fackbegrepp, minska stödet successivt.
-**Worked examples:** visa fullständigt lösta, tydligt hypotetiska räkneexempel före självständiga uppgifter.
-**Retrieval practice:** låt eleven återkalla begrepp och förklaringar utan att läsa facit.
-**Formativ bedömning:** använd svar för diagnostik och riktad återkoppling.
-**Sokratisk dialog:** följ upp resonemang med precisa frågor, inte oändliga motfrågor.
-**Problembaserat lärande:** låt eleven jämföra realistiska beslut och väga osäkerhet.
+## Metodkombination
+- **Narrativt och situerat lärande:** En återkommande fiktiv skogsägare gör de abstrakta ekonomiska relationerna konkreta. Fiktionen är en pedagogisk ram, aldrig källan till Södra-fakta.
+- **Guided discovery och scaffolding:** Ge en liten mängd relevant information före val; konkretisera effekten och introducera korrekta begrepp. Minska stödet när begreppen återkommer.
+- **Scenario- och problembaserat lärande:** Visa alternativa utfall, konflikter och risker; undvik att varje val verkar ha ett normativt 'rätt' Södra-svar.
+- **Worked examples och variation:** Visa kompletta exempel innan öppnare tillämpningar. Ändra en variabel i taget i ekonomiska experiment.
+- **Retrieval practice och formativ återkoppling:** Lägg in korta återkallnings- och överföringsmoment, men gör dem lågtröskliga. Upprepa missförstådda begrepp i senare scener.
+- **Mastery learning som stödprincip:** Bedöm förståelsen internt för att anpassa förklaringar och repetition, inte som en obligatorisk grind för kursprogression. Ingen slutsats om mastery utan evidens.
 
-Metoderna är komplement: tydliga förklaringar och exempel är särskilt viktiga vid låg förkunskap; öppnare problem blir viktigare senare. Projektet gör inga anspråk på att en viss kombination är vetenskapligt överlägsen i alla situationer.
+Detta är ett designförslag baserat på etablerade teorier, inte en validerad garanti för högre genomförandegrad eller bättre kunskapsresultat. Testa båda.
 
-## Lärloop
-Kort välkomsthälsning → lärandemål → förklaring → genomarbetat exempel → självständig övning → återkoppling → ny överföringsuppgift → repetition. Ingen inledande nivådiagnos eller förkunskapsfråga; förståelsen bedöms löpande genom elevens svar. Fråga en sak i taget och anpassa stöd och tempo. Alla genomgår modulerna 01–10 i ordning, utan att hoppa över moment. Se [ONBOARDING.md](ONBOARDING.md).
+## Standardloop
+Kort scen → meningsfullt val/utforskning → konsekvens och saklig förklaring → tillämpning eller mikrosimulering → kort sammanbindning → nästa scen. Vid fel/oklarhet: förklara, visa kontrast, fortsätt och återkom senare.
 
 ## Progression
-1. Grundbegrepp: ekonomisk förening, medlem, ägande och demokrati.
-2. Affärsmodell: virkesaffär, industriell förädling och värdeskapande.
-3. Ekonomiska mekanismer: insatskapital, insatsemission, vinstdelning och investeringar.
-4. Tillämpning: tolka exempel, skilja kassaflöde från kapital och utvärdera scenarier.
-5. Självständig värdering: osäkerheter, risker, alternativ och långsiktiga avvägningar.
+01 kooperativt ägande; 02 styrning; 03 virkesaffär; 04 förädling; 05 insatskapital; 06 insatsemission; 07 vinstdelning; 08 återinvestering; 09 risk och alternativ; 10 samlad medlemsvärdering. Alla moduler ska beröras i ordning. Val inom modulen får styra presentationen men inte hoppa över mål.
 
-## Lärandemål och mätbarhet
-Varje modul ska ange vad eleven kan *förklara*, *beräkna*, *jämföra* eller *motivera*. Att känna igen ett ord är inte samma sak som att kunna tillämpa det. Se [ASSESSMENT.md](ASSESSMENT.md).
+## Interaktionsregler
+Använd en kort prompt åt gången, helst två eller tre val och aldrig ett obligatoriskt långt fritextsvar. 'Fortsätt' fungerar alltid. Variera mellan utforskningsval, förutsägelse, misstagsdiagnos, jämförelse, hypotetiskt sifferexperiment och observerad diskussion. Undvik quiz-kadens och mekaniskt tvång att välja varje gång.
 
-## Vetenskaplig förankring – utgångspunkter för vidare granskning
-Bloom (mastery learning, 1968); Wood, Bruner & Ross (scaffolding, 1976); Roediger & Karpicke (test-enhanced learning, 2006); Hattie & Timperley (feedback, 2007); Sweller (cognitive load, 1988). Dessa är orienterande forskningsspår, inte en färdig systematisk litteraturöversikt. Sokratisk dialog och problembaserat lärande ska utvärderas särskilt med avseende på ämneskunskap och målgrupp.
+## Utvärdering
+Mät användningsfriktion (antal meddelanden, avbrott, progression), lärande (samma transferuppgift efter olika interaktionsformat), saklighet och AI-portabilitet. Jämför med tidigare kursmodell på ett litet pilottest. Se ASSESSMENT.md och quality/discovery-tests.md.
+
+## Fördjupning och forskning
+Bloom (1968); Wood, Bruner & Ross (1976); Sweller (1988); Roediger & Karpicke (2006); Hattie & Timperley (2007) är orienterande forskningsspår. Separat systematisk litteraturgranskning återstår. Utforskning utan förklaringar är inte ett tillräckligt undervisningsupplägg.

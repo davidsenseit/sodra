@@ -1,4 +1,6 @@
 # 08 – Återinvesteringar och ekonomiska avvägningar
+
+> **Undervisningsväg:** Använd motsvarande `discovery/`-fil för kursens interaktioner. Eventuella kontrollfrågor i denna faktamodul är intern diagnosbank, inte obligatoriska fritextsvar eller progressionsspärrar. Låt deltagaren fortsätta efter en förklaring.
 status: draft
 prepared_at: 2026-11-05
 

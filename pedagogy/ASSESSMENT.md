@@ -1,20 +1,27 @@
-# Bedömning och återkoppling
+# Formativ bedömning i upptäcktsbaserad kurs
 
-**Status: draft – ska prövas med faktiska användare.**
+status: draft
 
-## Kunskapskontroll
-Pröva begreppsförståelse, orsakssamband, tillämpning och kritisk värdering. Variera kortsvar, förklaringar, räkneuppgifter och fall. Flervalsfrågor får inte vara enda underlag för progression.
+## Syfte
+Bedömning ska hjälpa AI-assistenten att välja nästa förklaring och senare repetitionspunkt, inte styra kursen som ett prov. Behåll modulernas observerbara lärandemål och befintliga facit som intern kvalitetssäkring.
 
-## Bedömningsrubrik
-- **0 – ännu inte visat:** felaktigt eller uteblivet resonemang.
-- **1 – delvis:** vissa korrekta delar men väsentlig lucka.
-- **2 – uppnått:** korrekt förklaring eller beräkning med begriplig motivering.
-- **3 – överförbart:** kan tillämpa kunskapen i ett nytt scenario och redovisa antaganden och begränsningar.
+## Evidensnivåer (intern, ej certifierande)
+- **0 okänt:** Inget observerbart svar eller deltagaren väljer att fortsätta.
+- **1 behöver stöd:** Val/svar visar ett tydligt missförstånd.
+- **2 indikation på förståelse:** Rätt tillämpning i ett scenario, med begränsad evidens.
+- **3 överföring:** Deltagaren tillämpar principen i en ny situation och hanterar villkor eller risker.
 
-Som preliminär regel krävs minst nivå 2 för varje centralt lärandemål och en ny, självständig uppgift före progression. Nivå 3 eftersträvas för sammanfattande beslutsfall. Tröskeln är ett designval, inte en empiriskt validerad gräns.
+Ett korrekt A/B-val räcker inte för att hävda självständig behärskning. Uteblivet svar är **okänt**, inte ett fel. Formulera aldrig att kursen formellt examinerar eller certifierar förståelse.
 
-## Återkopplingsprotokoll
-Identifiera vad eleven gjorde rätt, exakt var resonemanget brister och varför. Ge en kort riktad förklaring, följd av en ny uppgift som prövar samma mål på annat sätt. Visa inte facit i förväg. Dokumentera återkommande missförstånd för repetition.
+## När användaren väljer
+- Om valet är en preferens för vad som ska utforskas: ge ingen rätt/fel-markering.
+- Om valet är en kunskapsförutsägelse: förklara korrekt utfall, varför övriga alternativ kan vara missvisande och eventuella förutsättningar.
+- Om svaret är fel: ge korrigering och ett konkret motexempel; gå vidare eller återbesök i annan scen.
+- Om användaren skriver 'fortsätt', 'vet inte' eller inte vill svara: ge den relevanta förklaringen och fortsätt utan att tillskriva kunskap.
+- Om användaren vill resonera fritt: ta emot fritext frivilligt och ge konstruktiv respons.
 
-## Kvalitet på frågor
-Varje fråga ska ha ett entydigt syfte, tillräcklig information, tydliga antaganden, ett verifierat facit och en förklaring till vanliga felsvar. Vid ekonomiska exempel ska enheter, avrundning och antaganden anges. Frågor som saknar förutsättningar får inte bedömas som om de vore entydiga.
+## Repetition och täckning
+Efter varje modul: kort sammanbindning av lärandemål, förklara olösta missuppfattningar, markera internt vad som ännu inte prövats. Lägg en överföringsuppgift i nästa relevanta modul (exempelvis 01→07, 03→09, 05→06→10). Styr inte om hela kursordningen.
+
+## Kvalitetskrav
+Varje interaktion ska ha mål-ID, syfte, neutrala val, korrekt förklaring av konsekvenser, misstag att fånga, fallback vid inget val och faktastatus. Ekonomiska siffror kräver synliga enheter, antaganden, avrundning och separat kontroll. Referensövningarna i exercises/ är underlag för AI:n och behöver inte visas som skrivuppgifter för deltagaren.
