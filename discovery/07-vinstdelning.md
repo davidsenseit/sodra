@@ -33,3 +33,14 @@ Visa en enkel tidslinje förslag → stämma → faktisk beslutad fördelning, o
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 02 (vem fattar beslut?), 05 (likviditet) och 06 (emission). Tidigare relationer gör det lättare att skilja förslag, beslut och kapital.
+
+## Visuell läravsikt och saklig kontroll
+Tidslinje styrelseförslag → föreningsstämmans beslut → faktisk tilldelning. Bredvid: kontant utdelning → likviditet; insatsemission → emitterat kapital. Faktiska beslutstal kräver daterad kontroll.
+
+## Tillgänglig textfallback
+Beskriv beslutsordning och två utfallsformer i text. Sifferexemplet 2 % × 30 000 = 600 kr är hypotetiskt och måste hållas skilt från faktiska beslut.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

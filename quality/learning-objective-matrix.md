@@ -34,7 +34,7 @@ Denna matris knyter ihop samtliga tio moduler och de 21 ursprungliga frågorna o
 De fem tidigare identifierade luckorna har nu var sin **draft**-uppgift i [fördjupningsövningarna](../exercises/05-fordjupning.md). Frågorna är ännu inte elevtestade eller sakverifierade. VIN-Q001 bygger på daterade faktauppgifter och får inte märkas verified före kontroll mot originalbeslut.
 
 ## Användning i undervisning
-Bedöm enligt pedagogy/ASSESSMENT.md (nivå 0–3). Ett korrekt tal räcker inte om målet kräver motivering. Använd inte samma exempel som enda evidens för mastery. En ny självständig överföringsuppgift behövs innan progression. Låt inte elevens vy avslöja facit i förväg.
+Bedöm enligt pedagogy/ASSESSMENT.md (nivå 0–3). Ett korrekt tal räcker inte om målet kräver motivering. Använd inte samma exempel som enda evidens för mastery. En ny överföringsmöjlighet bör planeras senare när den är pedagogiskt relevant, men är inte en progressionsspärr. Ett obligatoriskt längre fritextsvar krävs inte. Låt inte elevens vy avslöja facit i förväg.
 
 ## Fortsatt arbete
 1. Inför mål-ID:n i varje modul och frågefil utan att ändra frågornas sakliga innehåll.
@@ -44,3 +44,6 @@ Bedöm enligt pedagogy/ASSESSMENT.md (nivå 0–3). Ett korrekt tal räcker inte
 
 ## Upptäcktsbaserad användning (2026-11-05)
 Filerna i `discovery/` täcker alla tio modulernas mål genom scener, utforskande val, förklaringar, ekonomiska experiment och repetitionspunkter. Refererade frågor och facit bevaras för intern diagnostik. Kolumnen ”måste visa” beskriver evidens för visad förståelse, inte ett krav för fortsatt progression. Ett val kan vara en preferens, inte ett kunskapsprov. Utan elevsvar är kunskapsnivån okänd. Utvärdering i faktiska AI-tjänster och faktagranskning återstår.
+
+## Begrepp och minnesförstärkning
+Se [begreppskartan](concept-map.md) för förkunskap, missuppfattningar och senare tillämpning, samt [v0.2-testerna](discovery-v02-tests.md) för verifieringsfall. Ingen täckning eller förståelse ska påstås vara empiriskt bevisad av dessa planeringsdokument.

@@ -11,10 +11,16 @@ Kursen bygger på **berättelser, utforskande val, konsekvensförklaringar, jäm
 
 **Åtkomst:** En ensam URL garanterar inte att AI-tjänsten kan läsa filerna. Om repositoryt är privat eller åtkomsten saknas ska assistenten ange det tydligt. Testmaterial med `draft` ska aldrig presenteras som verifierade fakta.
 
+**Pedagogisk designversion:** Discovery Learning v0.2.0 (kurslokalt integrerad; inget runtime-beroende). Dokumentationen av visuella verktyg är daterad och inte testintyg.
+
 ## Utvecklarstruktur
 - [AGENTS.md](AGENTS.md): modellneutral instruktion
 - [pedagogy/FRAMEWORK.md](pedagogy/FRAMEWORK.md): pedagogik och progression
 - [pedagogy/DISCOVERY-PROTOCOL.md](pedagogy/DISCOVERY-PROTOCOL.md): interaktionsprotokoll och fallback
+- [pedagogy/MEMORY.md](pedagogy/MEMORY.md): begreppsbaserad minnesförstärkning
+- [pedagogy/VISUAL-LEARNING.md](pedagogy/VISUAL-LEARNING.md): visuella pedagogiska representationer och fallback
+- [quality/concept-map.md](quality/concept-map.md): beroenden och naturliga återbesök
+- [quality/platform-capabilities.md](quality/platform-capabilities.md): daterad ChatGPT-/Claude-bedömning
 - [pedagogy/ASSESSMENT.md](pedagogy/ASSESSMENT.md): icke-blockerande formativ bedömning
 - [pedagogy/ONBOARDING.md](pedagogy/ONBOARDING.md): kort introduktion och direktstart
 - [discovery/README.md](discovery/README.md): scenarier för modul 01–10

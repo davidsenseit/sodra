@@ -33,3 +33,14 @@ Förklara representantkedjan och skillnaden mellan demokratiskt inflytande och e
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 01: Alex är delägare men det säger ännu inte vem som fattar beslut. Fråga valfritt vilken rättighet som nu undersöks – demokratisk eller ekonomisk.
+
+## Visuell läravsikt och saklig kontroll
+En representantkedja: medlem → lokal medlemsdemokrati → valda fullmäktige → föreningsstämma. Parallellt: insatskapital påverkar inte automatiskt röststyrkan.
+
+## Tillgänglig textfallback
+Räkna upp leden i ordning och förklara skillnaden mellan deltagande lokalt och fullmäktiges omröstning. Inga aktuella antal behövs.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

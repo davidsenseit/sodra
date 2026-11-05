@@ -33,3 +33,14 @@ Förklara skillnad mellan bokföring och pengar samt utdelningens alternativkost
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Återknyt till 04: redovisat resultat är inte automatiskt disponibla kontanter. Förutsäg vilket alternativ som lämnar mer kapital till investering utan att hävda framtida vinst.
+
+## Visuell läravsikt och saklig kontroll
+Jämförelse av hypotetiska A (6 mnkr utdelning, 4 mnkr investering) och B (2 mnkr utdelning, 8 mnkr investering) av samma 10 mnkr. Visa båda som staplar.
+
+## Tillgänglig textfallback
+Tabell med A och B och slutsatsen att B investerar 4 mnkr mer nu men framtida resultat är osäkert.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

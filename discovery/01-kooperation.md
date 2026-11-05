@@ -33,3 +33,14 @@ Förklara båda rollerna kort, nämn en möjlighet och en risk med industrin, g�
 
 ## Genomförandeprincip
 Ge bara en scen eller en fråga åt gången. Förklara i korta turer och koppla alltid tillbaka till fackbegreppen. Ett val ändrar vad som förklaras först, inte modulens mål. Ingen obligatorisk fritext eller stoppad progression. Fiktiva personer, belopp och fall är pedagogiska exempel, inte faktiska villkor. Kontrollera faktiska Södra-regler mot knowledge-filen och behåll status draft.
+
+## Discovery Learning v0.2 – naturligt minnesåterbesök
+Ingen tidigare modul. Introducera två separata roller och återanvänd gärna samma två spår senare när virkeslikvid jämförs med kapital och vinstdelning.
+
+## Visuell läravsikt och saklig kontroll
+Relationsschema: Alex → (levererar virke mot betalning) → köpare/förening och Alex → (är medlem/delägare i) → förening. Pilarna representerar olika relationer, inte samma betalning.
+
+## Tillgänglig textfallback
+Beskriv två oberoende relationer med var sin mening. Textval A/B ska fungera utan schema.
+
+**Implementering:** Använd grafik endast när en faktiskt exponerad funktion kan återge innehållet korrekt. Inga obligatoriska widgets; A/B/fortsätt gäller fortsatt. Se [minnesstrategin](../pedagogy/MEMORY.md), [visuell strategi](../pedagogy/VISUAL-LEARNING.md) och [begreppskartan](../quality/concept-map.md). Behåll status draft.

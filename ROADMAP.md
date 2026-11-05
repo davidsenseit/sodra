@@ -26,3 +26,10 @@
 
 ## Definition of done
 Varje modul har mål, sakunderlag, discovery-aktivitet, vardaglig alternativ-interaktion, fallback, feedback, kritiska perspektiv och spårbara kontrollpunkter. Detta är ännu inte liktydigt med verifierat faktainnehåll eller empiriskt validerad pedagogik.
+
+## Discovery Learning v0.2 – minne, grafik och portabilitet
+- [x] Skapa begreppskarta med planerade, icke-blockerande återbesök (förslag i PR)
+- [x] Specificera visuella aktiviteter och textfallback (förslag i PR)
+- [x] Dokumentera plattformskapabiliteter som daterade dokumentationsuppgifter (ej funktionstest)
+- [ ] Prova grafiska och textbaserade moment i ChatGPT och Claude
+- [ ] Testa återkallning/överföring och upplevd friktion med deltagare
