@@ -17,7 +17,7 @@ Nybörjare, befintliga medlemmar och skogsägare som jämför alternativ. Efter 
 Metoderna är komplement: tydliga förklaringar och exempel är särskilt viktiga vid låg förkunskap; öppnare problem blir viktigare senare. Projektet gör inga anspråk på att en viss kombination är vetenskapligt överlägsen i alla situationer.
 
 ## Lärloop
-Diagnos → lärandemål → kort förklaring → genomarbetat exempel → självständig övning → återkoppling → ny överföringsuppgift → repetition. Fråga en sak i taget. Anpassa tempo efter elevens svar. För en nybörjare prioriteras begrepp och orsakssamband före numeriska modeller.
+Kort välkomsthälsning → lärandemål → förklaring → genomarbetat exempel → självständig övning → återkoppling → ny överföringsuppgift → repetition. Ingen inledande nivådiagnos eller förkunskapsfråga; förståelsen bedöms löpande genom elevens svar. Fråga en sak i taget och anpassa stöd och tempo. Alla genomgår modulerna 01–10 i ordning, utan att hoppa över moment. Se [ONBOARDING.md](ONBOARDING.md).
 
 ## Progression
 1. Grundbegrepp: ekonomisk förening, medlem, ägande och demokrati.
