@@ -2,12 +2,14 @@
 
 Ett AI-oberoende utbildningsunderlag för att förstå och självständigt värdera Södra skogsägarnas ekonomiska förening och dess ekonomiska modell.
 
-**Status:** Tio kunskapsmoduler (01–10) och sexton övningar finns som **draft**. Ingen modul är ännu verifierad för undervisningsbruk. Kvalitetsgranskning pågår; repositoryt är ännu inte en färdig kurs.
+**Status:** Tio kunskapsmoduler (01–10) och 21 övningar finns som **draft**. Ingen modul är ännu verifierad för undervisningsbruk. Kvalitetsgranskning pågår; repositoryt är ännu inte en färdig kurs.
 
-## För användare
-En kompatibel AI-assistent med faktisk åtkomst till repositoryt kan använda [AGENTS.md](AGENTS.md) som undervisningsinstruktion, [pedagogy/FRAMEWORK.md](pedagogy/FRAMEWORK.md) som pedagogiskt ramverk och verifierade ämnesmoduler under `knowledge/`. Att enbart klistra in en GitHub-URL ger inte garanterad åtkomst i alla AI-tjänster. Om assistenten inte kan läsa filerna behöver användaren tillhandahålla dem.
+## Starta utbildningen
+Klistra in repositoryts adress i en AI-assistent som kan läsa GitHub-innehållet. När länken är det enda användaren skickar ska assistenten läsa [AGENTS.md](AGENTS.md) och [pedagogy/ONBOARDING.md](pedagogy/ONBOARDING.md), ge en **kort välkomsthälsning** och börja undervisa i modul 01 direkt. Ingen meny, nivåindelning eller inledande fråga om förkunskaper. Alla tio moduler genomförs i ordning.
 
-Förslag på startfråga: ”Använd undervisningsinstruktionerna i detta repository för att lära mig förstå Södras ekonomiska modell. Börja med att kartlägga mina förkunskaper.”
+**Viktigt:** En ensam URL garanterar inte att alla AI-tjänster kan läsa eller följa instruktionerna. Repositoryt måste vara tillgängligt för tjänsten (det är för närvarande privat). Om innehållet inte kan läsas ska assistenten säga det, inte låtsas starta kursen.
+
+**Testversion:** Alla moduler är ännu `draft`. I uttryckligt testläge får de användas som preliminärt undervisningsmaterial med tydlig information om att faktagranskningen inte är klar. De får inte beskrivas som verifierade.
 
 ## För utvecklare
 - [AGENTS.md](AGENTS.md): AI-neutral instruktion och undervisningsprotokoll
