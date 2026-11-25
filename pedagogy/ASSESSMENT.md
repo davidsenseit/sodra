@@ -13,7 +13,9 @@ Bedömning ska hjälpa AI-assistenten att välja nästa förklaring och senare r
 
 Ett korrekt A/B-val räcker inte för att hävda självständig behärskning. Uteblivet svar är **okänt**, inte ett fel. Formulera aldrig att kursen formellt examinerar eller certifierar förståelse.
 
-## När användaren väljer
+## Före och efter deltagarens val
+- Visa alternativen likadant, utan bockar, förval, rätt/fel-markering eller ledtrådar som avslöjar svaret. Använd vanlig A/B-text om klickbara val inte kan starta omarkerade.
+- Avsluta turen med frågan och alternativen. Håll facit och förklaring till nästa tur, när deltagaren har svarat eller bett att få gå vidare.
 - Om valet är en preferens för vad som ska utforskas: ge ingen rätt/fel-markering.
 - Om valet är en kunskapsförutsägelse: förklara korrekt utfall, varför övriga alternativ kan vara missvisande och eventuella förutsättningar.
 - Om svaret är fel: ge korrigering och ett konkret motexempel; gå vidare eller återbesök i annan scen.
