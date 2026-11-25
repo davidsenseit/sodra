@@ -20,7 +20,16 @@ Medlemmarna äger verksamheten gemensamt och kan påverka den enligt föreningen
 Leverantör, kund och delägare är olika roller. Virkeslikvid är inte vinstdelning. Gemensam förädling kan ge värde via industri och marknadstillgång, men kan även ge verksamhets- och finansiell risk.
 
 ## Lågtröskel-interaktion eller experiment
-Visa två tänkta kontoutdrag: 100 000 kr för virkesleverans och en separat eventuell resultatfördelning utan bestämt belopp. Fråga valfritt: 'Vilken post följer direkt av försäljningen? A virkeslikvid / B vinstdelning'. Förklara att A följer av affären, B kräver förutsättningar och beslut.
+Beskriv två tänkta poster: en betalning på 100 000 kr för virkesleveransen och en eventuell separat resultatfördelning utan bestämt belopp.
+
+Om du ställer kontrollfrågan, avsluta turen med:
+
+Vilken post följer direkt av försäljningen?
+
+- A – Virkeslikvid
+- B – Vinstdelning
+
+**Återkoppling i nästa tur:** När deltagaren har svarat eller bett att få gå vidare, förklara att virkeslikviden (A) följer av affären och att vinstdelning (B) kräver förutsättningar och beslut.
 
 ## Missförstånd att fånga i återkoppling
 Att alla medlemmar automatiskt får vinst eller att virkeslikvid är en utdelning.

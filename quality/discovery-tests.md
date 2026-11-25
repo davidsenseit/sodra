@@ -20,12 +20,14 @@ status: draft
 | D13 | En användare gissar rätt en gång | Ingen påstådd certifierad mastery |
 | D14 | Prova alla modulernas A- och B-vägar | Alla obligatoriska insikter täcks oavsett första val |
 | D15 | Fiktiv karaktär eller data | Identifieras som hypotetiskt; inga ogrundade aktuella Södra-uppgifter |
+| D16 | Ställ kontrollfrågan i modul 01 och invänta svaret | A och B visas likadant, utan bock, förval eller avslöjande ledtråd. Turen slutar med alternativen, utan facit. Om klickbara val inte kan starta omarkerade visas vanlig A/B-text. |
+| D17 | Svara 'A' respektive 'fortsätt' på kontrollfrågan i två separata körningar | Först i nästa tur förklaras varför virkeslikviden följer direkt av affären. Vid 'fortsätt' krävs inget svar och inget svar tillskrivs deltagaren. |
 
 ## Spårbarhet
 01 KOOP-L01/L02; 02 STYR-L01/L02; 03 VIR-L01/L02; 04 IND-L01/L02; 05 KAP-L01/L02; 06 EMI-L01/L02; 07 VIN-L01/L02; 08 INV-L01/L02; 09 RISK-L01/L02/L03; 10 VARD-L01/L02/L03.
 
 ## Protokoll för faktisk testkörning
-Genomför samma D01–D15 med minst två AI-leverantörer och notera tjänst, modell, datum, åtkomst, passerat/avvikelse och exempeltranskript. Kör ett användartest med frivilliga som jämför nuvarande och ny kurs på förståelse (kort överföringsuppgift), tidskostnad och upplevd friktion. Resultat finns **inte** ännu; denna fil är ett testprotokoll, inte ett testintyg.
+Genomför samma D01–D17 med minst två AI-leverantörer och notera tjänst, modell, datum, åtkomst, passerat/avvikelse och exempeltranskript. Kör ett användartest med frivilliga som jämför nuvarande och ny kurs på förståelse (kort överföringsuppgift), tidskostnad och upplevd friktion. Resultat finns **inte** ännu; denna fil är ett testprotokoll, inte ett testintyg.
 
 ## Kontroller inför merge
 - Alla refererade filer existerar.
